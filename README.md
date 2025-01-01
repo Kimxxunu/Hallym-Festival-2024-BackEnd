@@ -69,11 +69,13 @@
 <br>
 
 ## 📖 프로젝트 전략 
-
 - WBS
-- 커밋 컨밴션
-- Flow 전략
-- ERD
+
+- [ERD](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/ERD)   
+- [코딩 컨벤션](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98)   
+- [커밋 컨벤션](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B0%B4%EC%85%98)   
+- [Git Flow 전략](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/Git%E2%80%90Flow-%EC%A0%84%EB%9E%B5)   
+
 
 <br>
 
