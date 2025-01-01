@@ -140,6 +140,7 @@
 ###  5. 분실물 찾기 
 
 <img width="400" alt="스크린샷 2025-01-01 오후 7 56 26" src="https://github.com/user-attachments/assets/2480148f-60f1-4e48-96fe-5f14417d97f1" />
+<br>
 
 <br>
 
@@ -148,8 +149,10 @@
 
 
 ---
-## 🎉  배포후 성과
 <br>
+
+## 🎉  배포후 성과
+
 
 ###  📢  SNS 및 학생 커뮤니티를 이용한 마케팅
 
@@ -176,7 +179,17 @@
 
 <img width="714" alt="스크린샷 2025-01-01 오후 9 05 50" src="https://github.com/user-attachments/assets/0a640d09-e584-4956-87d9-65c8f798126b" />
 
-<br> <br> 
+<br> 
+
+---
+
+
+## 😵‍💫  트러블 슈팅
+> [1. 커뮤니티 테러 우려](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%85%8C%EB%9F%AC-%EC%9A%B0%EB%A0%A4-%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88)   
+>
+>[2. 대규모 트래픽 테스트](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%EB%8C%80%EA%B7%9C%EB%AA%A8-%ED%8A%B8%EB%9E%98%ED%94%BD-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%BD%EC%A7%88%EA%B8%B0)   
+
+<br>
 
 ## 😎  이후 
 
