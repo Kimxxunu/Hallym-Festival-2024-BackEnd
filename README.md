@@ -68,14 +68,14 @@
 
 <br>
 
-## 📖 프로젝트 전략 
+## 📖 프로젝트 관리 및 전략
 - WBS
 
 - [ERD](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/ERD)   
 - [코딩 컨벤션](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98)   
 - [커밋 컨벤션](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B0%B4%EC%85%98)   
 - [Git Flow 전략](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/Git%E2%80%90Flow-%EC%A0%84%EB%9E%B5)   
-
+- [프로젝트 구조](https://github.com/Kimxxunu/Hallym-Festival-2024-BackEnd/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%AC%EC%A1%B0)  
 
 <br>
 
@@ -195,5 +195,5 @@
 
 ### 🥇  교내 학술 동아리 소프트웨어 전시회에서 금상 수상 🥇
 
-<img width="710" alt="스크린샷 2025-01-01 오후 9 19 15" src="https://github.com/user-attachments/assets/35addaca-1a35-49ea-8849-8b6e57288d88" />
+<img width="100%" alt="스크린샷 2025-01-01 오후 9 19 15" src="https://github.com/user-attachments/assets/35addaca-1a35-49ea-8849-8b6e57288d88" />
 
